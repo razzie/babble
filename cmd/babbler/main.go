@@ -1,4 +1,4 @@
-package babble
+package main
 
 import (
 	"flag"
